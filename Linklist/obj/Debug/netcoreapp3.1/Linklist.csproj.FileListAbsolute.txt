@@ -1,0 +1,11 @@
+/Users/ultra/Desktop/Linklist/bin/Debug/netcoreapp3.1/Linklist
+/Users/ultra/Desktop/Linklist/bin/Debug/netcoreapp3.1/Linklist.deps.json
+/Users/ultra/Desktop/Linklist/bin/Debug/netcoreapp3.1/Linklist.runtimeconfig.json
+/Users/ultra/Desktop/Linklist/bin/Debug/netcoreapp3.1/Linklist.runtimeconfig.dev.json
+/Users/ultra/Desktop/Linklist/bin/Debug/netcoreapp3.1/Linklist.dll
+/Users/ultra/Desktop/Linklist/bin/Debug/netcoreapp3.1/Linklist.pdb
+/Users/ultra/Desktop/Linklist/obj/Debug/netcoreapp3.1/Linklist.csprojAssemblyReference.cache
+/Users/ultra/Desktop/Linklist/obj/Debug/netcoreapp3.1/Linklist.AssemblyInfoInputs.cache
+/Users/ultra/Desktop/Linklist/obj/Debug/netcoreapp3.1/Linklist.AssemblyInfo.cs
+/Users/ultra/Desktop/Linklist/obj/Debug/netcoreapp3.1/Linklist.dll
+/Users/ultra/Desktop/Linklist/obj/Debug/netcoreapp3.1/Linklist.pdb
